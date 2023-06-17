@@ -1,8 +1,9 @@
 # l0py2
 
-## What I love and like:
+## What I love and like
 
 - Coding and programming
+- Free and open-source software
 - GNU and Linux (I use **Arch Linux** _btw_)
 
 ## Some of the projects and repositories I am working on
