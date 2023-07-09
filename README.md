@@ -1,13 +1,26 @@
-# l0py2
+# Hello
 
-## What I love and like
+I am l0py2
 
-- Coding and programming
-- Free and open-source software
-- GNU and Linux (I use **Arch Linux** _btw_)
+## My likes are
 
-## Some of the projects and repositories I am working on
+- programming
+- Linux
+- Free Software
 
-- [cff](https://github.com/egujito/cff) - C Fast Fetch (cff) is an fetch utility developed alongside [@egujito](https://github.com/egujito)
-- [dotfiles](https://github.com/l0py2/dotfiles) - My dotfiles
-- [install-scripts](https://github.com/l0py2/install-scripts) - Collection of install scripts for GNU/Linux distributions
+## Dotfiles
+
+My dotfiles are located in [this](https://github.com/l0py2/dotfiles) GitHub repository
+
+## Projects
+
+- Install scripts is a collection of installation scripts for GNU/Linux distribtutions
+- C Fast Fetch is a fetch utility written in C whose main goal is to be fast. I am developing it alongside with [@egujito](https://github.com/egujito)
+
+## Contacts
+
+You can contact me with
+
+| Method |                                                           |
+| ------ | --------------------------------------------------------- |
+| e-mail | [l0py2.contact@gmail.com](mailto:l0py2.contact@gmail.com) |
