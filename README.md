@@ -7,10 +7,12 @@ I am l0py2
 - programming
 - Linux
 - Free Software
+- Lemons
+- Potatoes
 
 ## Dotfiles
 
-My dotfiles are located in various GitHub repositories
+My dotfiles are located in various GitHub repositories:
 
 - [base](https://github.com/l0py2/dotfiles-base)
 - [dwm](https://github.com/l0py2/dotfiles-dwm) for the DMW window manager
@@ -23,7 +25,7 @@ My dotfiles are located in various GitHub repositories
 
 ## Contacts
 
-You can contact me with
+You can contact me with:
 
 | Method |                                                           |
 | ------ | --------------------------------------------------------- |
