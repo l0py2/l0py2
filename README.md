@@ -1,14 +1,17 @@
 # Hello
 
-I am l0py2
+I am l0py2 (Leonardo Silva)
 
 ## My likes are
 
-- programming
+- Programming
 - Linux
 - Free Software
-- Lemons
-- Potatoes
+
+## What I use
+
+- Arch Linux
+- Neovim
 
 ## Dotfiles
 
